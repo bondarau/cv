@@ -26,7 +26,7 @@ With a journey in IT that began in 2005, I bring over 18 years of enriching expe
 - VPN, SOCKS, DNS, TCP/IP, SSL, Firewall Routing
 
 ### Monitoring
-- Grafana, Prometheus, CloudWatch, DataDog
+- Grafana, Prometheus, CloudWatch, DataDog, Zabbix
 
 ## Experience
 
